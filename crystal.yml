@@ -1,0 +1,17 @@
+name: project
+version: 0.1.0
+description: project generator
+
+generators:
+  authors:
+    pass: true
+    path: .
+    version: latest
+  mit-license:
+    pass: true
+    path: .
+    version: latest
+  readme:
+    pass: true
+    path: .
+    version: latest
